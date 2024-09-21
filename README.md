@@ -14,5 +14,8 @@ Call me Gabi! I'm a web development student. I'm here to learn and get good.
 
 > My current projects:
 
+📖 A quotes of the day website that refreshes everyday at 5 AM
+
+
 
 [![My Github stats](https://github-readme-stats.vercel.app/api?username=gabi-studio)](https://github.com/gabi-studio/github-readme-stats)
