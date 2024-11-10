@@ -2,7 +2,7 @@
 
 ## Hello.
 
-Call me Gabi! I'm a web development student. I'm here to learn and get good.  
+Call me Gabi! I'm a full stack developer, and lover of great design. I'm here to learn and get good.  
 
 > my current practice:
 
