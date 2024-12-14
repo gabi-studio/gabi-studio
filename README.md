@@ -1,4 +1,4 @@
-![ ](banner.png)
+![ ](studio-gabi-header.png)
 
 ## Hello.
 
