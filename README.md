@@ -19,7 +19,7 @@ Call me Gabi! I'm a full stack developer, and lover of great design. I'm here to
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)]
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 
 > My current projects:
