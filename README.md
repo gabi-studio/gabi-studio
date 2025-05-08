@@ -25,10 +25,4 @@ Call me Gabi! I'm a full stack developer, and lover of great design. I'm here to
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 
-> My current projects:
 
-📖 a web app that gives you an inspiring quote depending on your mood
-
-
-
-[![My Github stats](https://github-readme-stats.vercel.app/api?username=gabi-studio)](https://github.com/gabi-studio/github-readme-stats)
